@@ -1,0 +1,12 @@
+__pycache__
+cat_dog_classification.egg-info
+dataset
+notebook
+venv-catdog
+logs
+log
+infrastructure
+docs
+LICENSE
+README.md
+scripts
